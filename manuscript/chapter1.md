@@ -1,3 +1,3 @@
 # Chapter 1
 
-Hello world!
+"And then, there was light" -Genesis 1:3
